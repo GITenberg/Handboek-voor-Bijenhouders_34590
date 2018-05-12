@@ -1,0 +1,24 @@
+_repo: Handboek-voor-Bijenhouders_34590
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dirks, J.
+    gutenberg_agent_id: '37105'
+    url: http://www.gutenberg.org/2009/agents/37105
+description: ''
+gutenberg_issued: '2010-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34590'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SF'
+- !lcsh 'Bee culture'
+title: Handboek voor Bijenhouders
+url: http://www.gutenberg.org/ebooks/34590
